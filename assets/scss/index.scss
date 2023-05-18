@@ -1,5 +1,6 @@
 // variables and functions
 @import './variables';
+@import 'variables';
 
 // base and layout
 @import './base';
@@ -9,5 +10,6 @@
 
 //components (button, card, navbar...)
 @import './components/card';
+@import './components/button';
 
 // utilities (margin, padding, opacity...) 
